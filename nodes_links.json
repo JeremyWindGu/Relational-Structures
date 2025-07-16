@@ -1,0 +1,367 @@
+{
+  "nodes": [
+    {
+      "id": "Half-Earth Socialism",
+      "group": "core",
+      "tags": "Ecology,Politics",
+      "description": "A political and ecological vision advocating for preserving half of the Earth for nature while implementing socialist planning to mitigate the climate crisis."
+    },
+    {
+      "id": "Planetary Boundaries",
+      "group": "core",
+      "tags": "Ecology",
+      "description": "A scientific framework defining Earthâs environmental limits within which humanity can safely operate."
+    },
+    {
+      "id": "Climate Anxiety",
+      "group": "core",
+      "tags": "",
+      "description": "Emotional distress caused by awareness of the climate crisis, particularly among younger generations."
+    },
+    {
+      "id": "Eco-Literacy",
+      "group": "core",
+      "tags": "Education",
+      "description": "The knowledge and skills needed to understand ecological principles and apply them to sustainability practices."
+    },
+    {
+      "id": "Simulation Game",
+      "group": "core",
+      "tags": "Education,Technology",
+      "description": "An interactive digital tool based on the Half-Earth Socialism book, allowing users to explore ecological and political scenarios."
+    },
+    {
+      "id": "Participatory Simulation",
+      "group": "core",
+      "tags": "Education,Politics",
+      "description": "A form of public engagement where people use models and games to collectively explore complex systems and policy impacts."
+    },
+    {
+      "id": "Utopian Imagination",
+      "group": "core",
+      "tags": "Culture,Politics",
+      "description": "The creative envisioning of alternative, just, and sustainable futures, often used in speculative fiction and critical theory."
+    },
+    {
+      "id": "Indigenous Science",
+      "group": "core",
+      "tags": "Ecology,Knowledge",
+      "description": "Knowledge systems developed by Indigenous communities that emphasize relationality, stewardship, and ecological balance."
+    },
+    {
+      "id": "Decolonizing Academia",
+      "group": "core",
+      "tags": "Education",
+      "description": "Efforts to challenge Eurocentric knowledge systems and integrate diverse epistemologies within education and research."
+    },
+    {
+      "id": "Citizen Assemblies",
+      "group": "core",
+      "tags": "Politics",
+      "description": "Deliberative bodies composed of ordinary people making collective decisions on policy, often used in climate governance."
+    },
+    {
+      "id": "Anti-Colonial Ecologies",
+      "group": "core",
+      "tags": "Ecology,Justice",
+      "description": "Ecological thought rooted in anti-colonial resistance and Indigenous sovereignty, opposing extractive development."
+    },
+    {
+      "id": "Protected Land Zones",
+      "group": "core",
+      "tags": "Ecology",
+      "description": "Designated areas aimed at conserving biodiversity by limiting or prohibiting human exploitation."
+    },
+    {
+      "id": "Carbon Market Logic",
+      "group": "core",
+      "tags": "Economy",
+      "description": "A market-based approach to reducing emissions by trading carbon credits, often criticized for perpetuating inequalities."
+    },
+    {
+      "id": "Technoutopianism",
+      "group": "core",
+      "tags": "Technology",
+      "description": "The belief that technology alone can solve ecological and social problems without systemic political change."
+    },
+    {
+      "id": "Climate Modeling Limitations",
+      "group": "core",
+      "tags": "Knowledge",
+      "description": "The constraints and uncertainties inherent in predictive models of climate systems and their political implications."
+    },
+    {
+      "id": "Critical Physical Geography",
+      "group": "core",
+      "tags": "Geography",
+      "description": "A subfield integrating social theory into the study of physical processes to expose power dynamics in environmental science."
+    },
+    {
+      "id": "Central Planning",
+      "group": "core",
+      "tags": "Economy,Politics",
+      "description": "A state-driven economic model where production and distribution are coordinated through centralized decision-making."
+    },
+    {
+      "id": "Post-Scarcity Economy",
+      "group": "core",
+      "tags": "Economy,Politics",
+      "description": "An envisioned economic system where material needs are met sustainably, eliminating enforced scarcity."
+    },
+    {
+      "id": "Planned Scarcity",
+      "group": "core",
+      "tags": "Economy",
+      "description": "Intentional limitation of resource use to reduce ecological impact and promote equitable distribution."
+    },
+    {
+      "id": "Supply Chain Labor",
+      "group": "core",
+      "tags": "Economy",
+      "description": "The human labor involved in producing and distributing goods, often under inequitable or exploitative conditions."
+    },
+    {
+      "id": "Rare Earth Extraction",
+      "group": "core",
+      "tags": "Ecology,Politics",
+      "description": "Mining of critical minerals for clean technologies, raising concerns about ecological harm and labor rights."
+    },
+    {
+      "id": "Low-tech Solutions",
+      "group": "core",
+      "tags": "Technology",
+      "description": "Technologies that are simple, affordable, and accessible, often rooted in traditional knowledge or small-scale innovation."
+    },
+    {
+      "id": "Agroecology",
+      "group": "core",
+      "tags": "Culture,Ecology",
+      "description": "A sustainable farming approach that integrates ecological principles with local knowledge and social equity."
+    },
+    {
+      "id": "Universal Basic Services",
+      "group": "core",
+      "tags": "Justice,Systems",
+      "description": "Provision of essential services like healthcare, education, and housing to all, regardless of income."
+    },
+    {
+      "id": "Green Colonialism",
+      "group": "core",
+      "tags": "Ecology,Politics",
+      "description": "Environmental policies or conservation efforts that marginalize or dispossess Indigenous peoples and local communities."
+    },
+    {
+      "id": "North-South Carbon Divide",
+      "group": "core",
+      "tags": "Justice",
+      "description": "The disparity between industrialized nationsâ?historical emissions and the developing worldâs right to grow."
+    },
+    {
+      "id": "Eco-Social Accounting",
+      "group": "core",
+      "tags": "Economy",
+      "description": "An accounting framework that includes environmental and social impacts in economic assessments."
+    },
+    {
+      "id": "Global South Movements",
+      "group": "core",
+      "tags": "Justice,Politics",
+      "description": "Grassroots initiatives from the Global South advocating for environmental justice, sovereignty, and systemic change."
+    },
+    {
+      "id": "Ecological Curriculum Reform",
+      "group": "core",
+      "tags": "",
+      "description": ""
+    },
+    {
+      "id": "Socialist Planning Traditions",
+      "group": "core",
+      "tags": "",
+      "description": ""
+    },
+    {
+      "id": "Anti-Colonial Governance",
+      "group": "core",
+      "tags": "",
+      "description": ""
+    }
+  ],
+  "links": [
+    {
+      "source": "Post-Scarcity Economy",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Central Planning",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Planned Scarcity",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Eco-Social Accounting",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Universal Basic Services",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Supply Chain Labor",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Rare Earth Extraction",
+      "target": "Supply Chain Labor",
+      "type": "solid"
+    },
+    {
+      "source": "Agroecology",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Low-tech Solutions",
+      "target": "Agroecology",
+      "type": "solid"
+    },
+    {
+      "source": "Eco-Literacy",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Ecological Curriculum Reform",
+      "target": "Eco-Literacy",
+      "type": "solid"
+    },
+    {
+      "source": "Participatory Simulation",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Simulation Game",
+      "target": "Participatory Simulation",
+      "type": "solid"
+    },
+    {
+      "source": "Utopian Imagination",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Climate Anxiety",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Climate Modeling Limitations",
+      "target": "Technoutopianism",
+      "type": "solid"
+    },
+    {
+      "source": "Technoutopianism",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Carbon Market Logic",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Green Colonialism",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Citizen Assemblies",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Decolonizing Academia",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Indigenous Science",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Protected Land Zones",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Global South Movements",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "North-South Carbon Divide",
+      "target": "Carbon Market Logic",
+      "type": "solid"
+    },
+    {
+      "source": "Anti-Colonial Governance",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Anti-Colonial Ecologies",
+      "target": "Half-Earth Socialism",
+      "type": "solid"
+    },
+    {
+      "source": "Socialist Planning Traditions",
+      "target": "Central Planning",
+      "type": "solid"
+    },
+    {
+      "source": "Planetary Boundaries",
+      "target": "Protected Land Zones",
+      "type": "solid"
+    },
+    {
+      "source": "Critical Physical Geography",
+      "target": "Eco-Social Accounting",
+      "type": "solid"
+    },
+    {
+      "source": "Climate Modeling Limitations",
+      "target": "Simulation Game",
+      "type": "dashed"
+    },
+    {
+      "source": "Central Planning",
+      "target": "Citizen Assemblies",
+      "type": "dashed"
+    },
+    {
+      "source": "Technoutopianism",
+      "target": "Indigenous Science",
+      "type": "dashed"
+    },
+    {
+      "source": "Carbon Market Logic",
+      "target": "Eco-Social Accounting",
+      "type": "dashed"
+    },
+    {
+      "source": "Green Colonialism",
+      "target": "Global South Movements",
+      "type": "dashed"
+    }
+  ]
+}
